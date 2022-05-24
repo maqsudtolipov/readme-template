@@ -40,8 +40,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/maqsudtolipo)
-- Twitter: [@twitterhandle](https://twitter.com/maqsud_tolipov)
+- GitHub: [@maqsudtolipov](https://github.com/maqsudtolipo)
+- Twitter: [@maqsud_tolipov](https://twitter.com/maqsud_tolipov)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/maqsud-tolipov)
 
 ## 🤝 Contributing
